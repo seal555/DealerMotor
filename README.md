@@ -8,6 +8,7 @@ Language: Solidity
 Platform: Ethereum
 Environment:  Javascript
 Compiler: ^0.7.0
+Documentation: https://remix-ide.readthedocs.io/en/latest/solidity_editor.html
 
 
 What is this?
