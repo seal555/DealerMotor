@@ -5,6 +5,9 @@ Readme
 IDE : Remix IDE (https://remix.ethereum.org/)
 
 Language: Solidity
+
 Platform: Ethereum
+
 Environment:  Javascript
+
 Compiler: ^0.7.0
