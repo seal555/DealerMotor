@@ -3,6 +3,7 @@ Emurgo blockchain developer mini project, using Remix IDE &amp; Ethereum platfor
 
 Readme
 IDE : Remix IDE (https://remix.ethereum.org/)
+
 Language: Solidity
 Platform: Ethereum
 Environment:  Javascript
