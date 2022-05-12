@@ -1,7 +1,7 @@
 # DealerMotor
 Emurgo blockchain developer mini project, using Remix IDE &amp; Ethereum platform
 
-Readme
+Configurations:
 IDE : Remix IDE (https://remix.ethereum.org/)
 Language: Solidity
 Platform: Ethereum
