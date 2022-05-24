@@ -1,4 +1,4 @@
-# DealerMotor
+# MotorCycleDealer
 Emurgo blockchain developer mini project, using Remix IDE &amp; Ethereum platform
 
 
@@ -12,7 +12,6 @@ Documentation: https://remix-ide.readthedocs.io/en/latest/solidity_editor.html
 
 
 What is this?
-DealerMotor is a mini project that handle business process in any motorcycle dealer. This app contain 3 main functions including:
-1. Sales (booking & purchasing)
+MotorCycleDealer is a mini project that handle business process in any motorcycle dealer. This app contain 2 main functions including:
+1. Sales (booking & purchasing unit)
 2. Sparepart (purchasing only)
-3. Services (booking & purchasing)
