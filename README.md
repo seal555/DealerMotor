@@ -16,4 +16,5 @@ MotorCycleDealer is a mini project that handle business process in any motorcycl
 1. Sales (booking & purchasing unit)
 2. Sparepart (purchasing only)
 
+<img src="MainFeatures.png">
 <img src="MotorCycleDealer.png">
