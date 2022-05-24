@@ -15,3 +15,5 @@ What is this?
 MotorCycleDealer is a mini project that handle business process in any motorcycle dealer. This app contain 2 main functions including:
 1. Sales (booking & purchasing unit)
 2. Sparepart (purchasing only)
+
+<img src="./img/MotorCycleDealer.png">
