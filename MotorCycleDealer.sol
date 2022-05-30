@@ -4,9 +4,8 @@ pragma solidity ^0.7.0;
 import "./Owner.sol";
 import "./Sales.sol";
 import "./SparePart.sol";
-import "./ServiceAndMaintenance.sol";
 
-contract MotorCycleDealer is Owner, Sales, SparePart, ServiceAndMaintenance{
+contract MotorCycleDealer is Owner, Sales, SparePart{
 
     constructor(){ }
 
